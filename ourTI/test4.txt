@@ -1,0 +1,8 @@
+array M[15];
+integer i; i = 0;
+while(i<15)
+{
+	M[i]=15-i;
+	write(M[i]);
+	i=i+1;
+}

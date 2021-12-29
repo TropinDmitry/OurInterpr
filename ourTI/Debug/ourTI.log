@@ -1,0 +1,140 @@
+﻿  LexicalAnalyzer.cpp
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(81,9): error C2065: Lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(81,2): error C2923: std::vector: "Lexeme" не является допустимым аргументом типа шаблон для параметра "_Ty"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(81): message : см. объявление "Lexeme"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(81,2): error C2976: std::vector: слишком мало аргументов шаблон
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community1\VC\Tools\MSVC\14.29.30133\include\vector(443): message : см. объявление "std::vector"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(92,9): error C3646: NextLex: неизвестный спецификатор переопределения
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(92,16): error C2059: синтаксическая ошибка: (
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(93,2): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(233,9): error C2065: Lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(233,2): error C2923: std::vector: "Lexeme" не является допустимым аргументом типа шаблон для параметра "_Ty"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(233): message : см. объявление "Lexeme"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(233,2): error C2976: std::vector: слишком мало аргументов шаблон
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community1\VC\Tools\MSVC\14.29.30133\include\vector(443): message : см. объявление "std::vector"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(45,3): error C2065: Lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(45,10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "_lexeme"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(45,10): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(48,17): warning C4018: <: несоответствие типов со знаком и без знака
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(62,4): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(62,14): error C3861: NextLex: идентификатор не найден
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(63,4): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(64,4): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(66,8): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(67,50): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(71,12): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(73,19): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(76,3): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(77,3): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(78,3): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(79,18): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(83,1): error C2440: return: невозможно преобразовать "std::vector" в "std::vector"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(83,1): message : Создать class "std::vector" с помощью конструктора копий невозможно, так как конструкторы копий неоднозначны или отсутствуют
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(85,17): error C2512: std::vector: нет подходящего конструктора по умолчанию
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community1\VC\Tools\MSVC\14.29.30133\include\vector(443,1): message : см. объявление "std::vector"
+  MainProg.cpp
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(81,9): error C2065: Lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(81,2): error C2923: std::vector: "Lexeme" не является допустимым аргументом типа шаблон для параметра "_Ty"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(81): message : см. объявление "Lexeme"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(81,2): error C2976: std::vector: слишком мало аргументов шаблон
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community1\VC\Tools\MSVC\14.29.30133\include\vector(443): message : см. объявление "std::vector"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(92,9): error C3646: NextLex: неизвестный спецификатор переопределения
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(92,16): error C2059: синтаксическая ошибка: (
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(93,2): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(233,9): error C2065: Lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(233,2): error C2923: std::vector: "Lexeme" не является допустимым аргументом типа шаблон для параметра "_Ty"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(233): message : см. объявление "Lexeme"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(233,2): error C2976: std::vector: слишком мало аргументов шаблон
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community1\VC\Tools\MSVC\14.29.30133\include\vector(443): message : см. объявление "std::vector"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(45,3): error C2065: Lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(45,10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "_lexeme"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(45,10): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(48,17): warning C4018: <: несоответствие типов со знаком и без знака
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(62,4): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(62,14): error C3861: NextLex: идентификатор не найден
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(63,4): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(64,4): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(66,8): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(67,50): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(71,12): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(73,19): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(76,3): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(77,3): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(78,3): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(79,18): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(83,1): error C2440: return: невозможно преобразовать "std::vector" в "std::vector"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(83,1): message : Создать class "std::vector" с помощью конструктора копий невозможно, так как конструкторы копий неоднозначны или отсутствуют
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(85,17): error C2512: std::vector: нет подходящего конструктора по умолчанию
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community1\VC\Tools\MSVC\14.29.30133\include\vector(443,1): message : см. объявление "std::vector"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\MainProg.cpp(29,58): error C2664: "SyntaxisAnalyzer::SyntaxisAnalyzer(std::vector<Lexeme,std::allocator<Lexeme>>)": невозможно преобразовать аргумент 1 из "std::vector" в "std::vector<Lexeme,std::allocator<Lexeme>>"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\MainProg.cpp(29,56): message : Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\SyntaxisAnalyzer.cpp(138,5): message : см. объявление "SyntaxisAnalyzer::SyntaxisAnalyzer"
+  OPSinterpreter.cpp
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(81,9): error C2065: Lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(81,2): error C2923: std::vector: "Lexeme" не является допустимым аргументом типа шаблон для параметра "_Ty"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(81): message : см. объявление "Lexeme"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(81,2): error C2976: std::vector: слишком мало аргументов шаблон
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community1\VC\Tools\MSVC\14.29.30133\include\vector(443): message : см. объявление "std::vector"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(92,9): error C3646: NextLex: неизвестный спецификатор переопределения
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(92,16): error C2059: синтаксическая ошибка: (
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(93,2): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(233,9): error C2065: Lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(233,2): error C2923: std::vector: "Lexeme" не является допустимым аргументом типа шаблон для параметра "_Ty"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(233): message : см. объявление "Lexeme"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(233,2): error C2976: std::vector: слишком мало аргументов шаблон
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community1\VC\Tools\MSVC\14.29.30133\include\vector(443): message : см. объявление "std::vector"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(45,3): error C2065: Lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(45,10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "_lexeme"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(45,10): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(48,17): warning C4018: <: несоответствие типов со знаком и без знака
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(62,4): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(62,14): error C3861: NextLex: идентификатор не найден
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(63,4): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(64,4): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(66,8): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(67,50): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(71,12): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(73,19): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(76,3): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(77,3): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(78,3): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(79,18): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(83,1): error C2440: return: невозможно преобразовать "std::vector" в "std::vector"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(83,1): message : Создать class "std::vector" с помощью конструктора копий невозможно, так как конструкторы копий неоднозначны или отсутствуют
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(85,17): error C2512: std::vector: нет подходящего конструктора по умолчанию
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community1\VC\Tools\MSVC\14.29.30133\include\vector(443,1): message : см. объявление "std::vector"
+  SyntaxisAnalyzer.cpp
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(81,9): error C2065: Lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(81,2): error C2923: std::vector: "Lexeme" не является допустимым аргументом типа шаблон для параметра "_Ty"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(81): message : см. объявление "Lexeme"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(81,2): error C2976: std::vector: слишком мало аргументов шаблон
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community1\VC\Tools\MSVC\14.29.30133\include\vector(443): message : см. объявление "std::vector"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(92,9): error C3646: NextLex: неизвестный спецификатор переопределения
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(92,16): error C2059: синтаксическая ошибка: (
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(93,2): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(233,9): error C2065: Lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(233,2): error C2923: std::vector: "Lexeme" не является допустимым аргументом типа шаблон для параметра "_Ty"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(233): message : см. объявление "Lexeme"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(233,2): error C2976: std::vector: слишком мало аргументов шаблон
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community1\VC\Tools\MSVC\14.29.30133\include\vector(443): message : см. объявление "std::vector"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(45,3): error C2065: Lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(45,10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "_lexeme"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(45,10): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(48,17): warning C4018: <: несоответствие типов со знаком и без знака
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(62,4): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(62,14): error C3861: NextLex: идентификатор не найден
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(63,4): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(64,4): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(66,8): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(67,50): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(71,12): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(73,19): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(76,3): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(77,3): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(78,3): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(79,18): error C2065: _lexeme: необъявленный идентификатор
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(83,1): error C2440: return: невозможно преобразовать "std::vector" в "std::vector"
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(83,1): message : Создать class "std::vector" с помощью конструктора копий невозможно, так как конструкторы копий неоднозначны или отсутствуют
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\ourTI\ourTI\LexicalAnalyzer.cpp(85,17): error C2512: std::vector: нет подходящего конструктора по умолчанию
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community1\VC\Tools\MSVC\14.29.30133\include\vector(443,1): message : см. объявление "std::vector"
+  Создание кода...
